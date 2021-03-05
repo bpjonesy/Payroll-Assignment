@@ -1,0 +1,13 @@
+
+***** Employee Info *****
+Employee: Harry Potter
+Hours Worked: 40
+Pay Rate: 50.0
+Tax Rate: 0.2
+
+***** Payroll Info  *****
+Gross: 2000.0
+Tax: 400.0
+Net: 1600.0
+Net Percent: 0.8
+

@@ -1,0 +1,13 @@
+
+***** Employee Info *****
+Employee: Hermione Grainger
+Hours Worked: 50
+Pay Rate: 60.0
+Tax Rate: 0.2
+
+***** Payroll Info  *****
+Gross: 3300.0
+Tax: 660.0
+Net: 2640.0
+Net Percent: 0.8
+

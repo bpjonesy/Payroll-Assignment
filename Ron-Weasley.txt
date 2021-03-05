@@ -1,0 +1,13 @@
+
+***** Employee Info *****
+Employee: Ron Weasley
+Hours Worked: 30
+Pay Rate: 25.0
+Tax Rate: 0.2
+
+***** Payroll Info  *****
+Gross: 750.0
+Tax: 150.0
+Net: 600.0
+Net Percent: 0.8
+
